@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: true),
       home: const Banner(
-        message: 'flashflutter',
+        message: 'flashflutterf',
         location: BannerLocation.bottomStart,
         child: MainWrapper(),
       ),
